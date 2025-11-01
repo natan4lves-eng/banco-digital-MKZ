@@ -24,6 +24,7 @@ Este projeto realiza uma análise abrangente de dados de clientes bancários, fo
 ## Desenho da Pipeline de dados ETL
 ![Fluxo de Dados](./images/modelagem_tabela.png)
 
+
 ## ✨ Funcionalidades
 
 ### 1. Extração e Preparação de Dados
