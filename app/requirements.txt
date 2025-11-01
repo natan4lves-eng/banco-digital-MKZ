@@ -17,6 +17,18 @@
 pandas>=1.3.0
 numpy>=1.21.0
 
+# Bibliotecas adicionais usadas no `main.ipynb` / análise e visualização
+# - matplotlib: plots
+# - seaborn: visualização estilizada (usa matplotlib internamente)
+# - scikit-learn: clustering e pré-processamento
+# - scipy: funções estatísticas (opcional para análises)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0
+scipy>=1.7.0
+notebook>=6.0.0
+jupyterlab>=3.0
+
 # Versão mínima do Python: 3.8+
 
 # Instalar:
