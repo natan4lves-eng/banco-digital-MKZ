@@ -22,7 +22,7 @@ Este projeto realiza uma análise abrangente de dados de clientes bancários, fo
 - 📱 **Engajamento Digital**: Avaliar adoção de canais digitais
 
 ## Desenho da Pipeline de dados ETL
-![Fluxo de Dados](./images/dmodelagem_tabela.png)
+![Fluxo de Dados](./images/modelagem_tabela.png)
 
 ## ✨ Funcionalidades
 
